@@ -18,6 +18,7 @@ Cada pregunta está organizada por separado y desplegada en línea para su revis
 
 🔗 **Enlace Netlify (Pregunta 1):** [http://taller-aplicaciones-pregunta-1.netlify.app/]
 
+**Enlace Netlify (Pregunta 1):** [https://tuproyecto1.netlify.app](https://tuproyecto1.netlify.app) *(reemplazar con el real)*
 ---
 
 
