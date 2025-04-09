@@ -16,7 +16,7 @@ Cada pregunta está organizada por separado y desplegada en línea para su revis
 
 
 
-🔗 **Enlace Netlify (Pregunta 1):** [http://taller-aplicaciones-pregunta-1.netlify.app/](Pregunta 1 Formulario) 
+🔗 **Enlace Netlify (Pregunta 1):** [http://taller-aplicaciones-pregunta-1.netlify.app/]
 
 ---
 
